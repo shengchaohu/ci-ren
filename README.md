@@ -17,7 +17,7 @@ Using the Markov chain algorithm, the program learns its grammar and vocabulary 
 
 
 ## Dependencies
-- Python 2
+- Python 3
 - Pypy (recommanded)
 
 
